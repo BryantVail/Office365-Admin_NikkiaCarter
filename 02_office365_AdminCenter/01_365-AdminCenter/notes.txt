@@ -1,0 +1,59 @@
+
+
+office 365 AdminCenter
+    dashboard
+        'tiles' or 'cards' 
+            can be customized for the landing page
+    search
+        top
+        commands
+            "delete a user"
+            "deleted users"
+    incomplete tasks
+        top of dashboard
+        
+    navigation
+        left hand side,
+        hover -> pop out
+        arrow -> expand & collapse the menu
+
+    organizationNameLink
+        top right hand corner
+        > takes you to the Organizational Profile
+        Custom themes
+        *release preferences
+        tiles:
+            custom for your own apps 
+    OldAdminCenter
+        may need to view to better assist
+
+
+    
+    
+    ________________________________________________
+    configuring the organization settings
+    setting up new company domains
+    setting up and managing users
+    managing licenses and subscriptions
+    getting support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

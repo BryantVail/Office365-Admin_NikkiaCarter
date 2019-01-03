@@ -1,0 +1,28 @@
+
+
+Storage Settings: 
+    OneDrive Storage Settings 
+
+    Office365 Default Storage
+        default: 
+            1024 gb (1 terabyte)
+    Adding specific Storage Limit for new users and retention for Deleted Users 
+        "Days to retain files in OneDrive after a user is marked for deletion"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

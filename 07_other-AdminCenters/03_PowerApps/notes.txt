@@ -1,0 +1,29 @@
+
+
+"About Power Apps":
+    support & know
+    define: 
+        apps based in utiliy
+    example: 
+        case management
+    data loss prevention policies for Power Apps 
+    active user list 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

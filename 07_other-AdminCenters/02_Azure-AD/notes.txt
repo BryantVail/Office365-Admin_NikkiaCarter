@@ -1,0 +1,30 @@
+
+
+
+Azure Admin AD 
+    a) Sign Up for Azure AD 
+        manage users, groups, applications
+    b) Set a login-screen
+        Logo can also be added 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

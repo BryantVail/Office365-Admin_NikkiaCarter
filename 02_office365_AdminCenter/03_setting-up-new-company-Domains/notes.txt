@@ -1,0 +1,48 @@
+
+setting up new company domains
+
+    microsoft domain 
+        default: 
+            may look like
+                mstnd878242.onmicrosoft.com 
+        can have all/multiple domains available through 1 365 tennant
+    buying a new domain 
+        takes to GoDaddy
+            then adds to domain list
+    adding a current domain 
+        "add domain" button
+            1) enter domain 
+            2) verify domain 
+                a) verify ownership
+                b) "mx" record also ok
+            3) verify dns provider
+                can choose one 
+                not in the list
+                    can also just choose a random one 
+        goDaddy is pretty much instantaneous 
+            some may take longer
+            15min is a good time to wait
+                > may want to get with support/ "need help" link
+        GoDaddy already?
+            just add username & pass
+    searching domains and using the views
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

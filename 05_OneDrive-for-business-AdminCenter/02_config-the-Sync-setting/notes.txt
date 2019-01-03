@@ -1,0 +1,33 @@
+
+
+Configuring the Sync Settings: 
+    The Sync Settings 
+        "these settings control OneDrive & SharePoint Sync-ing 
+        flags:
+            show the sync button on the OneDrive Website
+            allow Sync-ing only on PCs Joined to specific domains 
+                only PCs that are domain specific WITH the device thats included
+            block sync-ing of specific types of files 
+
+    Sync Button: to allow the files to the PC 
+    Allowing Sync-ing only PCs joined to specific domains 
+    Block sync-ing of specific file types 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

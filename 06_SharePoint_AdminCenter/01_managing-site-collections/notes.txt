@@ -1,0 +1,56 @@
+
+
+Managing Site Collections: 
+    SharePoint settings of Admin center
+        "Site Collections": 
+            ~.SharePoint.com/sites/{domain site within main}
+            SiteProperties:
+                title
+                address
+                primary Admin
+                administrators 
+                number of sub-sites
+                storage usage
+                resource usage 
+                server resource quota:          ex: 300 resources 
+                resource Usage Warning Level:   ex: 255 resources 
+            Manage Owners: 
+                Primary Site Collection Admin:
+                    -default: Company Admin is put in by 
+                "Site Collection Administrators"
+                    -3 is a good practice
+            Sharing: 
+                allow sharing outside of Company
+                limit by domain 
+            Buy Storage 
+                20Cents/gig per month 
+            Server Resource Quota 
+                a) limit the server resource quota for each selected site collection to a maximum of: ______ resources of 6400 resources available. 
+                b) send email when each selected site collectionresource usage reaches warning level at ____% . 
+    Site Collection Administrator various options 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

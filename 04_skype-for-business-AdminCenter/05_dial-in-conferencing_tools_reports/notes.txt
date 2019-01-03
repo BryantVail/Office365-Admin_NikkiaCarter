@@ -1,0 +1,62 @@
+
+
+Dial-In Conferencing, Tools, & Reports 
+    dial-in Conferencing 
+        a) Microsoft Bridge
+            E5 Subscription level
+        b) Dial-In Users
+            Edit individual User:
+                ProviderName: (eg: Microsoft)
+                Default toll Number
+                Default Toll FREE number 
+                Conference Id: type: dynamic 
+                Pin 
+                Meeting Options: 
+                    bool: 
+                        "Allow unauthenticated callers to be the first people in a meeting. If not, they will wait in the lobby until an authenticated user joins."
+
+        c) Microsoft Bridge Settings
+            Notifications 'Entry' & 'Exit'
+                Entry/Exit Announcement type
+            Flag:
+                "Ask callers to record their name before joining the meeting",
+            Security: 
+                PIN Length
+                bool:
+                    "Auto Send emails to users if their dial-in settings change"
+
+
+    tools: 
+        left navigation: "Tools"
+            "Troubleshooting SkypeFBus Online Sign-In for Admin"
+            "Connectivity Analyzer Tool"
+            "Remote Connectivity Analyzer"
+            "Online External Communications"
+
+            "Online Call Quality Dashboard"
+    reports:
+        Export to Excel possible
+        Sections:
+            PSTN (Public Switched Tele Sys.) Usage Details
+            Users Blocked 
+            Session Details (preview)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

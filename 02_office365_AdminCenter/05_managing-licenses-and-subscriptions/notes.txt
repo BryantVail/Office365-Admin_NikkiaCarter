@@ -1,0 +1,42 @@
+
+subscriptions and licenses
+    Subscriptions and Licenses 
+        'credit card' icon
+            subscriptions
+                active
+                disabled
+                deleted
+    Bills and Billing notifications
+        billing > bills 
+            range
+                this month
+                last month 
+                past 3mo
+                past 6mo 
+                past year
+                custom
+            notifications 
+                who gets billing notifications 
+                user role change 
+                    would need to be used in order to prevent 1 person from seeing the billing through notification. 
+            
+    purchasing new services
+        purchase subscriptions
+                Listings
+                specific with how business is registered 
+                    (non profit)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

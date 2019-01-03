@@ -1,0 +1,194 @@
+
+
+the subscriptions
+    Review subscriptions on Products.Office.com
+    Business Level
+        Office 365 Business
+            outlook, word, excel, powerpoint, oneNote, Access(pc only)
+            services:
+                oneDrive
+        Office 365 Bus Premium
+            outlook, word, excel, powerpoint, oneNote, Access(pc only)
+                services:
+                    Exchange, OneDrive, SharePoint, MicrosoftTeams
+        office 365 bus Essentials
+            apps: n/a 
+            services:
+                    Exchange, OneDrive, SharePoint, MicrosoftTeams
+
+    _______________________________________________
+    _______________________________________________
+    Enterprise Level
+
+        _______________________________________________
+        ProPlus
+            apps:
+                Outlook, word, excel, powerpoint, oneNote 
+                PC only: 
+                    Access, Publisher
+            Services: 
+                One Drive
+            features: 
+                no email hosting
+                5 phones, 5 tablets, AND 5 PCs or MACs 
+                OneDrive:
+                    1TB
+                skype for Business
+                    client available for PC & MAC 
+                    Skype for Business "Service" not included
+                users: 
+                    unlimited
+                FastTrack Deployments support w/150+ seats
+                24/7 phone & web support
+        _______________________________________________        
+        Enterprise E1
+            apps:
+                none
+            services: 
+                Exchange, OneDrive, SharePoint, MicrosoftTeams, 
+                Yammer, Stream
+            features:
+                email: 
+                    50gb 
+                    custom email domain address
+                5 phones, 5 tablets, AND 5 PCs or MACs 
+                OneDrive: 1TB,
+                SharePoint
+                    communication sites
+                    team sites
+                video conferencing
+                    unlimited HD conferencing with up to 250 people
+                Skype Meeting Broadcast/ Msft Team Live events
+                    10,000 people
+                MicrosoftTeams
+                    Hub for teamwork
+                    task & schedules
+                Yammer
+                    Collaborate Accross departments and Locations
+                Intelligent video
+                    create, manage, share 
+                        live & OnDemand content
+                Delve
+                    Search & discovery w/
+                MicrosoftPlanner
+                    tasks & teamwork
+                users: unlimited 
+                FastTrack Deployments support w/150+ seats
+                24/7 phone & web support
+                
+        _______________________________________________
+        Enterprise E3
+            apps:
+                Outlook, word, excel, powerpoint, oneNote 
+                PC only: 
+                    Access, Publisher
+
+            services: 
+                Exchange, OneDrive, SharePoint, MicrosoftTeams, 
+                Yammer, Stream
+            features:
+                email: 
+                    100gb
+                    custom domain address
+                5 phones, 5 tablets, AND 5 PCs or MACs 
+                cloudStorage
+                    unlimited
+                SharePoint
+                    communication sites
+                    team sites
+                video conferencing
+                    unlimited HD conferencing with up to 250 people
+                Skype Meeting Broadcast/ Msft Team Live events
+                    10,000 people
+                MicrosoftTeams
+                    Hub for teamwork
+                    task & schedules
+                Yammer
+                    Collaborate Accross departments and Locations
+                Intelligent video
+                    create, manage, share 
+                        live & OnDemand content
+                eDiscovery
+                    in-place search, hold, & export
+                retention and deletion (Manual) policies and manual classifications
+                FastTrack Deployments support w/150+ seats
+                24/7 phone & web support
+                
+                
+        _______________________________________________
+        Enterprise E5
+            apps:
+                Outlook, word, excel, powerpoint, oneNote 
+                PC only: 
+                    Access, Publisher
+
+            services: 
+                Exchange, OneDrive, SharePoint, MicrosoftTeams, 
+                Yammer, Stream, PowerBI Pro 
+            features:
+                email: 
+                    100gb
+                    custom domain address
+                5 phones, 5 tablets, AND 5 PCs or MACs 
+                cloudStorage
+                    unlimited
+                SharePoint
+                    communication sites
+                    team sites
+                video conferencing
+                    unlimited HD conferencing with up to 250 people
+                Skype Meeting Broadcast/ Msft Team Live events
+                    10,000 people
+                MicrosoftTeams
+                    Hub for teamwork
+                    task & schedules
+                Yammer
+                    Collaborate Accross departments and Locations
+                Intelligent video
+                    create, manage, share 
+                        live & OnDemand content
+                eDiscovery: 
+                    in-place search, hold, export, and
+                    Analytics
+                *********DIFFERENCES BETWEEN E3 & E5 *********
+                Mailbox Security:
+                    *Exchange Online Advanced Threat Protection
+                    "Customer Lockbox":
+                        control support access to mailbox
+                    Auto Classification 
+                        smart import
+                        Advanced Data Governance
+                    Assess Risk & Gain insight
+                        potential threats with 
+                            'office 365 Cloud App Security'
+                    Analytics
+                        MyAnalytics
+                        Power Bi Pro
+                    Phone System
+                        calls:
+                            Make, receive, transfer
+                            over multiple types of devices
+                        Add-on calling plan 
+                        Audio Conferencing 
+
+
+            
+
+types of subscriptions 
+
+Checking out the services available with each
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

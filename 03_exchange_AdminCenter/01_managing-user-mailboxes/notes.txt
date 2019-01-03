@@ -1,0 +1,53 @@
+
+managing user mailboxes
+    exchange admin center
+        "A with a gear" (admin)
+        admin center divisions
+            recipients
+                mailboxes 
+                    users in office 365 tennant w/ org account
+                    search 
+                    add/remove column
+                    user edit 
+                        right hand sidebar
+                        'pencil' icon while selected
+                    policies:
+                        sharing
+                        role assignment
+                        retention (email) policy
+                        address book
+                        unified messaging 
+            permissions
+            compliance management
+            organization
+            protection
+            advanced threats
+            mail flow
+            mobile
+            public folders
+            unified messaging
+            hybrid
+    searching and refreshing the list
+    editing a user 
+    other options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

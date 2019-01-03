@@ -1,0 +1,52 @@
+
+
+configuring the organization settings
+    services and ad-ins
+        site(sharepoint) settings
+        calendar sharing
+        cortana switch
+        active directory sync
+        docs.com
+        gigJam preview
+        mail
+            auditing
+            tracking
+        azure management
+        365 groups
+            group members outside the org access content
+            let group owners add people outside the org 
+                suggest using this one 
+        
+        office
+            downloads
+            online
+        skype for business
+        sway?
+        to-do preview
+
+    security and privacy
+        password policy:
+            frequency, robustness
+        lockbox
+        sharing 
+            DOES NOT extend to sharepoint sharing
+        users resetting their own passwords
+
+    partners Relationships
+        microsoft certified partner?
+        get credit for being a certified partner 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+
+
+Setting Online Meeting Options
+    Meeting Invitation Settings
+        >Admin Center >Online Meetings (left sidebar) 
+            >meeting invitation: 
+                Logo
+                Help URL
+                Legal
+                Footer Text
+    Broadcast Meeting settings 
+        Online Meetings Tab > BroadCast Meeting 
+            10,000 users at a time in a "broadcast meeting"
+            schedule anonymous meetings         
+        Boolean/Flags:nn
+            Enable Broadcast meetings 
+            Enable Broadcast preview features for my org 
+            allow organizers to schedule anonymous meetings 
+            Allow Broadcast meetings to be recorded 
+        textBox:
+            Helpdesk support URL for Attendees 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

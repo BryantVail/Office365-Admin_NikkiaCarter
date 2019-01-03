@@ -1,0 +1,32 @@
+
+
+Flow:
+    Understand what Flow is
+        -make automation/workflows
+        -templates available
+        -create own flows 
+        -flows associated with the creator 
+    Set Data Loss Prevention Policy
+        nav: 
+            "Flow Admin" > "Data Policies"
+        tenant:
+            download a list of user licenses using power apps w/flow 
+    Search through policies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+
+
+
+Resources: 
+    Knowledge
+    list:
+        success center: 
+            "success.office.com"
+        support center: 
+            "Support.office.com"
+        trust center: 
+            "products.office.com/en-us/business/office-365-trust-center-cloud-computing-security"
+        AdminHelp:
+            -"support.office.com/en-us/article/office-365-for-business-admin-help-17d3ff3f-3601-466e-b5a1-482b31cfb791"
+            **updated link: 
+                "https://docs.microsoft.com/en-us/office365/admin/admin-home"
+        Learning Center Spreadsheet:
+            "https://www.view.officeApps.live.com/op/view.aspx?src=https%3a%2f%2fSuccessCenter.blob.core.windows.net%3a443%2fMedia%2fDefault%2fResources%2fAdoption%2fOffice_365_learning_Center_BoM.xlsx"
+        
+        Solving Office 365 Client Deployment Scenarios (MVA)
+            "https://www.microsoftVirtualAcademy.com/en-US/training-courses/solving-office-365-client-deployment-scenarios-9086"
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,128 @@
+
+
+Compliance-and-device-access
+    a) nav
+        OneDrive Admin Link > "Compliance"(left sidebar) 
+    settings: 
+        Compliance:
+            Audit Logs: 
+                "search the audit log" (opens new tab):
+                    **not really a "search" **
+                    "Reports" > "Dashboard"
+                "DLP Policy Matches"
+                    shows breaches
+                    *click* in to Drill down
+                    'create a schedule' for reports 
+            Data Loss prevention (DLP)
+                Under "Data Loss Prevention (DLP)"
+                    >"Create a new Policy"
+                        template or custom
+                            templates 
+                                Financial
+                                Medical & Health
+                                Privacy
+                                Custom 
+                            Choose location
+                                a) choose & exclude certain SharePoint or OneDrive sites 
+
+                            Policy Settings 
+                                "Simple Settings" 
+                                    examples:
+                                        "U.S. Social Security Number"
+                                        "Drug Enforcement Agency Number (DEA)"
+                                    "Detect when this content is shared"
+                                        a) with people outside org
+                                        b) only with people inside my org 
+                                "Use advanced Settings" 
+
+                                "Sensitive Info":
+                                    Notifications: 
+                                        a) Show policy tips to users and send them an email notification.
+                                            1) customize the tip & email 
+                                    Detect when a specific amount of sensitive info is being shared at one time
+                                        a) "Detect when content that's being shared contains: at least ___ instances of the same sensitive info type. 
+                                            1) send incident reports in email 
+                                                i) by default, you and your global admin will automatically receive the email. 
+                                                ii) choose what to include in the report and who receives it. 
+                                            2) block people from sharing and restrict access to shared content***
+
+                    >"View DLP policy Match Reports" 
+
+            Retention
+                a) "Preserve OneDrive files as long as you need"
+                b) "Create a Preservation Policy"** Link
+                    clicked: 
+                        "Data Governance" Section:
+                            "Create" Retention Policy 
+                                a) settings 
+                                    1) time: days, months, years
+                                        i) retain based on: 
+                                            when it was created
+                                            last changed/Modified
+                                    2) delete anything older than a certain date 
+                                b) set locations 
+                                    1) Preservation Lock: 
+                                        locks the policy after creation to any changes other than the creating admin to:
+                                            i) Add new stuff to keep or delete
+                                            ii) Extend the TIMEFRAME to keep it around 
+                                            iii) Extend the AGE when content should be deleted.
+
+
+        Alerts:
+            Compliance > Create an Alert 
+            "Start monitoring user and admin activities" 
+            Create New Alert Policy: 
+                Name
+                Description 
+                Alert Type: 
+                    example: "elevation of Privilege"
+        Device Access 
+            Device Access Section 
+                a) Control Access based on Network Location 
+                    allow access only from specific IP address locations 
+                b) Control access from apps that con't enforce device-based restrictions
+                    allow access from apps that don't use modern authentication
+                c) Mobile app management 
+                    flags:
+                        1) block 
+                            downloading files in apps
+                            screenshots (android only)
+                            copying files and content within files 
+                            printing files in the apps 
+                            backing up app data 
+                            opening OneDrive and SharePoint files in other apps 
+                        2) require app passcode                         
+                        3) Encrypt app data when device is locked 
+                        4) Require Office 365 Sign-in every 7 days 
+                    When a device is offline:
+                        a) verify user access after ___ minutes 
+                        b) wipe app data after ____ days 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

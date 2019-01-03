@@ -1,0 +1,35 @@
+Skype for Business Admin Center
+
+the dashboard
+    user stats:
+        online users 
+        dial-in conferencing enabled users 
+        cloud users 
+        Users Synched and homed online 
+    organizational Information
+        name
+        id 
+        "created" timestamp
+        active directory synchronization 
+        org domains 
+    Learning more
+        "Resources":
+            Online Powershell: skype for Business 
+            Online Reporting 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

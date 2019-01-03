@@ -1,0 +1,50 @@
+
+OneDrive for Business Admin Center
+    config the Share Settings
+        Share Settings 
+            Home:
+                feedback
+            Sharing: 
+                Sharepoint content
+                    "Users can share with":
+                        'anyone, including anonymous users'
+                OneDrive Content 
+                    share options:
+                        Only existing external users (sign-in required)
+                        New & Existing external users (sign-in required)
+                        Anyone including anonymous users 
+
+        External User Sharing of Sharepoint & OneDrive 
+        Default sharing links:
+            types: 
+                Direct:
+                    Only people that already have permission
+                Internal: 
+                    only people in the organization 
+                Anonymous Access: 
+                    anyone with the link  
+                    options: 
+                        expires within [] number of days
+                        file permissions 
+                        folder permissions 
+        Limiting External Sharing by 'domain'
+            bool: 
+                Allow or block sharing with people on selected domains 
+            What can external users do? 
+                flags/bools :
+                    a) external users must accept sharing invitations using the same account that the invitations were sent to. 
+                    b) let external users share the items they don't own
+
+
+
+
+
+
+
+
+
+
+
+
+
+

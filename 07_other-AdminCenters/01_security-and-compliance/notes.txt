@@ -1,0 +1,66 @@
+
+Security & Compliance
+    Admin Centers (left sidebar) > "Security & Compliance"
+    set alerts 
+    permissions
+    classification 
+        labels
+        label policies
+        sensitive info types
+    "data loss prevention":
+        policy
+        app permissionsdevice management 
+    "data governance":
+        import
+        archive
+        retention
+    threat management
+        threat explorer
+        incidents
+        mail filtering
+        anti-malware
+        Dkim
+        safe attachments
+        safe links
+        quarantine
+    "search & investigate":
+        content search
+        audit log search
+        eDiscovery
+        productivity app discovery 
+    "Reports":
+        manage schedules
+        reports for download 
+    "Service Assurance":
+        compliance reports 
+        trust documents
+        Audited controls
+        Settings 
+
+    Government VS Commercial Cloud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

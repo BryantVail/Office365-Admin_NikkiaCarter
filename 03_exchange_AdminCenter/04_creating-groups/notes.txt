@@ -1,0 +1,41 @@
+
+
+what are Office365 groups?
+    conversations
+    calendar
+    files
+    notebook
+        oneNote (group specific)
+    connectors
+        twitter, JIRA, RSS Feeds 
+    More >
+        sharepoint
+
+where to go to create a new group 
+    >sharepoint center 
+        >people
+creating groups 
+editing groups 
+    >select group 
+        >pencil
+    can change privacy
+    Settings: 
+        General
+        ownership
+        membership
+        delivery management
+        group delegation
+More Group settings in Office 365 Admin Center 
+
+
+
+
+
+
+
+
+
+
+
+
+

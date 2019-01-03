@@ -1,0 +1,49 @@
+
+managing users
+    adding
+        a) dashboard
+        b) nav leftHandSide
+            1) nav LHS 
+            2) add user button
+            3) add info
+        c)CSV file
+            excel, download as csv file, 
+                (comma delimited)
+        
+        
+
+    deleting
+        deleting user may be up to 30days
+        PRODUCT LICESES 
+            may immediately remove user info 
+    Restore Users 
+        1 at a time
+        password reset needed
+    editing
+        1 at a time or many
+        types:
+            domains
+            product licenses
+            sign-in status
+            contact info 
+            user roles
+            multi-factor authentication
+
+    managing company contacts
+        end user CANNOT make changes to the contact list
+        contact update needs to be done by admins
+        Hide contact for admin only?
+
+    guest users 
+        see sharepoint to collaborate
+        add 
+            access to office 365, 
+                sharepoint, 
+                don't have "organizational accounts"
+        delete
+            they won't have a license 
+            their email address + EXT + organizational domain
+
+
+
+

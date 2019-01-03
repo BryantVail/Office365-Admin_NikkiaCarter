@@ -1,0 +1,63 @@
+
+
+Config Sharing & Device Access settings:
+    Share settings
+        nav: 
+            Admin Center > Sharing (left sidebar)
+        sharing outside your org: 
+            dont allow
+            allow only with external users already in organization's directory
+            allow users to INVITE and SHARE w/authenticated external users 
+            Allow sharing to authenticated external users and using anonymous access links
+                flags: 
+                    anonymous access links expire in this many days: ____
+                options:
+                    files:
+                        view and edit
+                    folders: 
+                        view edit and upload
+        "Default Link type":
+            Direct: 
+                -only people who have permission explicitly
+            Internal:
+                -People in the org 
+            Anonymous: 
+                -Anyone with the link 
+        "Additional Settings": 
+            a) domains; Limit external sharing using domains.
+            b) external; prevent external users from sharing files, folders, and sites that they don't own 
+            c) Invitation; external users mush accept sharing invitations using the same account that the invitations were sent to. 
+        "Notifications":
+            `Email` (action) OneDrive for Business OWNERS when: 
+                -other users invite additional external users to shared files 
+                -external users accept invitations to access files 
+                -An anonymous access link is created or changed
+
+    "Device Access Settings"
+        nav:
+            365 admin portal > "Device Access" (left sidebar)
+        types of restrictions:
+            Modern authentication requirement
+            Netowrk Location
+            Domain Restrictions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

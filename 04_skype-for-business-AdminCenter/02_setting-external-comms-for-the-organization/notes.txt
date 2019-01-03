@@ -1,0 +1,35 @@
+
+Skype admin> Organization> External Communications
+Setting External Comms for the Organization
+    External Access
+        options: 
+            off
+            on except for blocked domains 
+            On ONLY for allowed domains 
+    Blocked vs Allowed Domains
+        add: 
+            bool for 'blocked' or 'allowed'
+    Public IM connectivity
+        can users skype members outside the organization? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

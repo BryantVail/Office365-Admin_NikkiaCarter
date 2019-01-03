@@ -1,0 +1,36 @@
+
+Distribution Lists
+
+    Create; where to go.
+        >admin center
+            >exchange
+                >recipients.groups
+                    >List page of all groups 
+                        >plus symbol above list 
+    create a new list
+    edit distro
+        >select distribution list 
+            >double click
+            >pencil
+    migrating distro to an Office365 Group
+        choose group 
+            >migrate button between 'edit' pencil & 'delete' trash can icon
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

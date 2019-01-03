@@ -1,0 +1,55 @@
+
+
+managing organizational contacts
+    what are organizational contacts 
+        >Left side bar
+            >admin center icon
+                >exchange
+                    >Exchange Admin Center
+                        >Recipients
+                            >contacts 
+        "Organizational contacts":
+            people outside the organization 
+                to be added to the contacts list
+                or global address list 
+            example: 
+                vendor -> everyone can look up the vendor.
+        edit: pencil
+        add: '+' plus symbol
+        "Mail Users":
+            internal/organizational contact 
+
+
+
+    Managing your organization's contacts 
+    what are organizational resources? 
+        equipment
+        room
+        ** good for scheduling **
+    managing your organization's resources 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

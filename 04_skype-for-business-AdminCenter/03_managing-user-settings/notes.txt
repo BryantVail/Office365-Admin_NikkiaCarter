@@ -1,0 +1,30 @@
+
+
+Managing User Settings
+    Why the need?
+
+    Editing Settings for members 
+        General: 
+            Multimedia Comms 
+                None
+                Audio Only
+                Audio and HD Video
+            Record Conversations and Meetings
+            Compliance: "turn off non-archived features"
+        External Comms
+            set on/off
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+
+
+Configuring the Settings:
+    SharePoint Admin Settings 
+        "Site Collection Storage Management":
+            -Auto vs Manual
+        "OneDrive for Business Experience":
+            -classic vs new
+        "OneDrive Sync Button":
+            -show the sync button in OneDrive to help users install and set up new client.
+        "Sync Client for SharePoint":
+            -recommended: 
+                i) new client unless there is on-premises SharePoint sites and users should be able to use the same client for all devices.
+        "Streaming video service":
+            -if Videos are stored and streamed from Azure Media Services
+        "Site Pages":
+            -Let users create responsive Site Pages using the "Authoring Canvas"
+        "Global Experience Version Settings":
+            a) Control Which Version fo "SITE COLLECTIONS" can be created by end users, and whether users can upgrade them.
+        "Information Rights Management (IRM)":
+            -set IRM capabilities to SharePoint for your org (office 365 IRM service needed).
+        "Site Creation":
+            -Display or Not the command on SharePoint Home page so users can create new sites in the location you specify.
+        "Custom Scripts":
+            -helps not to experience certain error, problem with project sites 
+        "Access Apps":
+            -share and collaborate on Access Apps which are databases that run in the cloud. 
+                a) turning off this setting means users won't be able to use existing Access Apps or Create New ones.
+    Different Types of Settings at the time of configuration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
